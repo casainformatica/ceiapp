@@ -1,0 +1,243 @@
+﻿html, body {
+    width: 100%;
+    height: 100%;
+    display: block;
+    float: left;
+    font-size: 16px;
+}
+
+.row {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: block;
+}
+
+.scroll, .page {
+    width: 100%;
+    height: 100%;
+}
+
+.input-label, p, span, div, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"] {
+    font-size: 16px;
+}
+
+
+/*
+ * Home page
+ * -----------------
+ */
+
+.banner {
+    width: 100%;
+    height: 185px;
+    margin-bottom: 15px;
+}
+
+    .banner .logo {
+        background-image: url("../img/banner-cei.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+    }
+
+.icons {
+    width: 97%;
+    margin-left: 2%;
+}
+
+    .icons .col-50 {
+        width: 49%;
+        display: inline-block;
+        padding: 0;
+    }
+
+    .icons .icon {
+        display: inline-block;
+        width: 100%;
+        min-height: 170px;
+        margin: 0 0 10px 0;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+        .icons .icon:hover,
+        .icons .icon:focus {
+            opacity: 0.75;
+        }
+
+        .icons .icon:active {
+            opacity: 0.85;
+        }
+
+        .icons .icon.icon-derechos-estudiantiles {
+            background-image: url("../img/derechos.png");
+        }
+
+        .icons .icon.icon-cursada {
+            background-image: url("../img/donde_curso.png");
+        }
+
+        .icons .icon.icon-como-llego {
+            background-image: url("../img/como_llego.png");
+        }
+
+        .icons .icon.icon-contacto {
+            background-image: url("../img/contacto.png");
+        }
+
+        .icons .icon.icon-tramites {
+            background-image: url("../img/guia_tramites.png");
+        }
+
+        .icons .icon.icon-carpetas {
+            background-image: url("../img/carpetas_fotocopiadora.png");
+        }
+
+/*
+ * Páginas con listas (Derechos Estudiantiles, Como llego y Biblioteca de apuntes)
+ * -----------------
+ */
+
+.list-page .list .item {
+    border-bottom-width: 0px;
+}
+
+    .list-page .list .item.item-accordion {
+        line-height: 38px;
+        padding-top: 0;
+        padding-bottom: 0;
+        transition: 0.09s all linear;
+    }
+
+        .list-page .list .item.item-accordion.ng-hide {
+            line-height: 0px;
+        }
+
+        .list-page .list .item.item-accordion.ng-hide-add,
+        .list-page .list .item.item-accordion.ng-hide-remove {
+            display: block !important;
+        }
+
+
+.list-page .list .title,
+.list-page .list .value,
+.list-page .list .icon {
+    white-space: normal;
+    display: inline-block;
+    width: 95%;
+}
+
+.list-page .list .value {
+    line-height: 28px;
+    margin-left: 15px;
+}
+
+.list-page .list .icon {
+    width: 20px;
+    display: inline-block;
+    position: relative;
+    float: left;
+}
+
+/*
+ * Contacto
+ * -----------------
+ */
+
+.contacto .list .card .item {
+    margin: 0 0 -1px 0;
+}
+
+.contacto .info {
+    margin: 15px 5px 0px 15px;
+    width: 90%;
+}
+
+.contacto .list {
+    padding-bottom: 30px;
+}
+
+    .contacto .list .value {
+        white-space: normal;
+    }
+
+    .contacto .list .color-1 {
+        color: rgb(76, 133, 176);
+    }
+
+    .contacto .list .color-2 {
+        color: rgb(212, 94, 95);
+    }
+
+    .contacto .list .color-3 {
+        color: rgb(28, 153, 91);
+    }
+
+    .contacto .list .color-4 {
+        color: rgb( 247, 170, 53);
+    }
+
+/*
+ * Como llego
+ * -----------------
+ */
+
+.como-llego .section-logo {
+    height: 240px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+    .como-llego .section-logo.map {
+        background-image: url('../img/dummy-map.png');
+    }
+
+    .como-llego .section-logo.donde-queda {
+        background-image: url('../img/ingenieria.jpg');
+    }
+
+/*
+ * Donde curso
+ * -----------------
+ */
+
+.donde-curso .item-input {
+    overflow: visible;
+}
+
+    .donde-curso .item-input .autocomplete {
+        overflow: visible;
+    }
+
+        .donde-curso .item-input .autocomplete ul {
+            position: relative;
+            border: none;
+        }
+
+            .donde-curso .item-input .autocomplete ul .highlight {
+                background-color: #66cc33;
+                color: white;
+            }
+
+.donde-curso .button-cei {
+    width: 95%;
+    margin-left: 2%;
+    border-radius: 4px;
+}
+
+.donde-curso .results {
+    width: 99%;
+}
+
+    .donde-curso .results .status {
+        font-style: italic;
+        margin-left: 2%;
+        margin-top: 20px;
+    }
+
+.donde-curso row.results .list .item,
+.card .item:last-child, .list-inset .item:last-child {
+    margin: 0;
+}

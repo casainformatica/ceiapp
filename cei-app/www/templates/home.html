@@ -1,0 +1,33 @@
+<ion-view title="Home" hide-nav-bar="true" ng-controller="HomeCtrl">
+    <ion-content>
+        <div class="row banner">
+            <div class="col-md-12 logo"></div>
+        </div>
+        <div class="icons">
+            <div class="row">
+                <div class="col col-50">
+                    <div class="icon icon-derechos-estudiantiles" ng-touch="goToDerechosEstudiantiles($event)" ng-click="goToDerechosEstudiantiles($event)"></div>
+                </div>
+                <div class="col col-50">
+                    <div class=" icon icon-cursada" ng-touch="goToDondeCurso($event)" ng-click="goToDondeCurso($event)"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-50">
+                    <div class=" icon icon-como-llego" ng-touch="goToComoLlego($event)" ng-click="goToComoLlego($event)"></div>
+                </div>
+                <div class="col col-50">
+                    <div class=" icon icon-contacto" ng-touch="goToContacto($event)" ng-click="goToContacto($event)"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-50">
+                    <div class=" icon icon-tramites" ng-touch="goToGuiaDeTramites($event)" ng-click="goToGuiaDeTramites($event)"></div>
+                </div>
+                <div class="col col-50">
+                    <div class=" icon icon-carpetas" ng-touch="goToCarpetasEstudiantes($event)" ng-click="goToCarpetasEstudiantes($event)"></div>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

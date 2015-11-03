@@ -1,0 +1,15 @@
+<ion-view class="derechos-estudiantiles list-page" title="Derechos estudiantiles" ng-controller="DerechosEstudiantilesCtrl">
+    <ion-content>
+        <ion-list>
+            <div ng-repeat="item in items">
+                <ion-item class="item-stable" ng-class="{active: isItemShown(item)}" ng-click="toggleItem(item)">
+                    <i class="icon" ng-class="isItemShown(item) ? 'ion-minus' : 'ion-plus'"></i>
+                    <span class="title">{{item.title}}</span>
+                </ion-item>
+                <ion-item class="item-accordion" ng-show="isItemShown(item)">
+                    <div class="value" ng-bind-html="item.value | to_trusted"></div>
+                </ion-item>
+            </div>
+        </ion-list>
+    </ion-content>
+</ion-view>

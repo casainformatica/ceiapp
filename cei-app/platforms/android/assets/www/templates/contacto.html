@@ -1,0 +1,20 @@
+<ion-view class="contacto" title="Contacto" ng-controller="ContactoCtrl">
+    <ion-content>
+        <div class="row row-center info">
+            <div class="col">
+                <p>{{info}}</p>
+            </div>
+        </div>
+        <div class="row">
+            <ion-list>
+                <div class="card" ng-repeat="item in items">
+                    <a ng-touch="openLink(item.value)" ng-click="openLink(item.value)" class="item item-icon-left">
+                        <i class="icon" ng-class="[item.icon, item.colorCss]"></i>
+                        <label class="title" ng-class="item.colorCss">{{item.title}}</label>
+                        <p class="value">{{item.text}}</p>
+                    </a>
+                </div>
+            </ion-list>
+        </div>
+    </ion-content>
+</ion-view>

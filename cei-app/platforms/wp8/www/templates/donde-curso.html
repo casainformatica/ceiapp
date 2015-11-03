@@ -1,0 +1,38 @@
+<ion-view class="donde-curso" title="Donde curso?" ng-controller="DondeCursoCtrl">
+    <ion-content>
+        <div class="list">
+            <label class="item item-input item-stacked-label">
+                <span class="input-label">Departamento</span>
+                <autocomplete ng-model="data.departamento" data="departamentosFiltered" limit="10" attr-placeholder="Matematica" click-activation="true" attr-input-id="departamentoInput"></autocomplete>
+            </label>
+            <label class="item item-input item-stacked-label">
+                <span class="input-label">Materia</span>
+                <autocomplete ng-model="data.materia" data="materiasFiltered" limit="10" attr-placeholder="Analisis Matematico II A" click-activation="true" attr-input-id="materiaInput"></autocomplete>
+            </label>
+            <label class="item item-input item-stacked-label">
+                <span class="input-label">Docente</span>
+                <input type="text" placeholder="Acero" ng-model="data.docente">
+            </label>
+            <label class="item item-input item-stacked-label">
+                <span class="input-label">Hora de inicio</span>
+                <input type="text" placeholder="7:00" ng-model="data.horaDeInicio">
+            </label>
+        </div>
+        <div class="row">
+            <button class="button button-block button-balanced button-cei" ng-touch="submit()" ng-click="submit()">Buscar curso</button>
+        </div>
+        <div class="row results">
+            <p class="status">{{data.status}}</p>
+            <div class="list list-inset" ng-repeat="item in items">
+                <div class="item">
+                    <!--<span>Departamento de {{item.departamento}}</span><br />-->
+                    <span>{{item.codigo}} {{item.materia}}</span><br />
+                    <span>{{item.docente}}</span><br />
+                    <span>{{item.dia}} de {{item.inicio}} a {{item.fin}}</span><br />
+                    <span><b>Aula {{item.aula}}</b></span>
+                    <span>{{item.descripcion}}</span>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

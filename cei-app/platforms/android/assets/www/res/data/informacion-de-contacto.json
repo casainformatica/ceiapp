@@ -1,0 +1,33 @@
+﻿{
+  "info": "Si tenés alguna inquietud, si hay algún problema en tu cursada o si tenés ganas de proponer una iniciativa para el CEI, ¡no dudes en contactarnos!",
+  "items": [
+    {
+      "title": "Facebook",
+      "text": "Para charlar con nosotros y enterarte de las cosas que hacemos.",
+      "value": "http://www.facebook.com/cei.uba",
+      "icon": "ion-social-facebook",
+      "colorCss": "color-1"
+    },
+    {
+      "title": "Twitter",
+      "text": "Para saber las novedades y el día a día de la facu de manera rápida.",
+      "value": "https://twitter.com/ceiuba",
+      "icon": "ion-social-twitter",
+      "colorCss": "color-2"
+    },
+    {
+      "title": "Sitio web",
+      "text": "Para ver información importante sobre la cursada y las comisiones del centro.",
+      "value": "http://cei.org.ar",
+      "icon": "ion-ios7-world",
+      "colorCss": "color-3"
+    },
+    {
+      "title": "Email",
+      "text": "Para preguntarnos algo personal o conocer cómo participar en el CEI.",
+      "value": "mailto:ceiuba@gmail.com",
+      "icon": "ion-email",
+      "colorCss": "color-4"
+    }
+  ]
+}

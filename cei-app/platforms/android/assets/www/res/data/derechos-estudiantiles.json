@@ -1,0 +1,70 @@
+﻿[
+  {
+    "title": "¿Cómo me inscribo a las materias? ¿Dónde me fijo la oferta horaria de las materias? ¿Cómo me inscribo a los finales?",
+    "value": "La respuesta a todo esto, es SIU Guaraní. ¿Qué es esto? Es el sistema informático que tenemos los estudiantes para registrar y administrar nuestras actividades académicas. Podés entrar al SIU en <a href='#' onclick=\"window.open('http://guaranigrado.fi.uba.ar/','_blank', 'location=yes'); \">http://guaranigrado.fi.uba.ar/</a>. En la misma página hay un instructivo de cómo inscribirse a cursadas y finales. Podés inscribirte hasta en 10 materias como máximo."
+  },
+  {
+    "title": "¿Cuándo me inscribo a las materias?",
+    "value": "La inscripción se realiza durante la semana previa al comienzo de clases. El día y horario a partir del cual estás habilitado para inscribirte se te asigna según un número de prioridad, que está relacionado con el promedio, la presentación de certificado de trabajo, y la cantidad de materias aprobadas por año. Mientras mejor prioridad tengas, antes te podés inscribir y elegir los horarios que más te convienen.<br/>Tenés hasta la noche del viernes de la semana de inscripciones para anotarte, ¡No cuelgues!"
+  },
+  {
+    "title": "Trabajo y se me complican los horarios... ¿Qué hago?",
+    "value": "Presentando certificado de trabajo se mejora la prioridad que tenemos para inscribirnos a las materias, es decir, tenemos más posibilidades de elegir la que queremos. Lamentablemente, la facultad no reconoce a quienes trabajamos en negro."
+  },
+  {
+    "title": "¿Toman asistencia? ¿Puedo anotarme en un curso y cursar en otro?",
+    "value": "En general, se toma asistencia y se exige por reglamento asistir al menos al 75% de las clases.<br/>Si en el curso en el que te anotaste no toman asistencia (como en las materias del Departamento de Matemática), no hay problema con que vayas a las clases de otro docente. En Análisis II, Álgebra II, Análisis III, Física I y Física II, los finales son los mismos para todos (y en Análisis II y Álgebra II también son unificados los parciales). Eso sí, cuando vayas a rendir, acordate de ir al aula del curso donde estás anotado.<br/>Las materias con trabajos prácticos en laboratorio (Física I, Física II, Química, etc.) requieren que vayas a la práctica donde estás anotado."
+  },
+  {
+    "title": "¿Por qué cuando me voy a anotar las materias están repetidas en el sistema SIU?",
+    "value": "Hay carreras cuyos planes de estudio fueron actualizados, por eso aparece la misma materia con dos códigos diferentes (código plan viejo y código plan nuevo).<br/>Los cursos y las clases son las mismas, lo único que cambia es el código con el que te anotan la materia en la libreta. Asegurate de anotarte en la asignatura que corresponde con tu plan."
+  },
+  {
+    "title": "¿Qué es estar como condicional?",
+    "value": "Cuando te vas a anotar a una materia pero ya no queda lugar en ningún curso, el sistema te deja anotarte en la que quieras pero 'como condicional'. De todos modos, la facultad tiene la obligación de que te acepten en alguno de los cursos de esa materia. Desde el CEI queremos garantizar que todos los estudiantes anotados como condicionales o no puedan cursar, así que si tenés algún problema podés acercarte a nosotros para que busquemos  juntos una solución."
+  },
+  {
+    "title": "¿Cuánto dura la cursada?",
+    "value": "Nuestra cursada consiste en un cuatrimestre de 23 semanas, compuesto por 16 semanas de clases y 7 semanas dispuestas para rendir Finales. Es importante remarcar que las clases deben terminar indefectiblemente dentro del Período de Clases de 16 semanas y si éste se extiende se considera fuera de reglamento."
+  },
+  {
+    "title": "¿Qué pasa si no me presento al parcial?",
+    "value": "Hay tres oportunidades (fijas) de rendir el examen parcial hasta aprobarlo. En caso de no poder asistir a alguna, no hay drama, podés rendir a la siguiente sin problema. Si podés presentar un justificativo de la falta y el profesor da como válidos  tus  motivos, no te contará como pérdida la chance.<br/>Algunas asignaturas (como Álgebra II o Análisis II) también establecen una fecha de examen diferido, en caso de no poder rendir en la fecha estipulada (por motivos laborales, religiosos, etc.)"
+  },
+  {
+    "title": "¿Qué pasa si no voy a todas las clases?",
+    "value": "El régimen de cursada está compuesto de clases teóricas y prácticas, a las cuales debemos asistir, como mínimo, al 75% de ellas para mantener la regularidad en la materia. Prestá atención a este requisito sobre todo en las asignaturas donde toman lista"
+  },
+  {
+    "title": "¿Cuántas veces puedo rendir un parcial? ¿Con cuánto tiempo deben avisarme para rendir el recuperatorio?",
+    "value": "La Evaluación parcial podrá rendirse en 3 oportunidades. Dos de ellas, por reglamento, deben ubicarse dentro del Período de Clases de 16 semanas, y la tercera instancia en la primer semana del período de Finales. Los resultados de la Evaluación Parcial y sus recuperaciones deberán ser comunicados por cartelera a los alumnos con un plazo mínimo de 4 días a la siguiente oportunidad, estando fuera de reglamento quienes entreguen la nota fuera de ese plazo."
+  },
+  {
+    "title": "¿Cómo se fijan las fechas de finales? ¿Pueden superponerse fechas de finales?",
+    "value": "Los finales deben programarse durante el Período de Evaluaciones, fijando 5 fechas en distintas semanas dentro de ese período. No deben superponerse en el mismo días las evaluaciones de materias obligatorias recomendadas para cursar en el mismo cuatrimestre (según el Plan de Estudios vigente) y cualquier situación de ese estilo se encuentra fuera de reglamento."
+  },
+  {
+    "title": "¿Puedo rendir más de una vez un final? ¿Cuántas fechas tengo para rendir?",
+    "value": "Para rendir un final tenemos de 3 períodos consecutivos de 5 fechas, es decir 15 fechas posibles, de las cuales podemos utilizar hasta 3 oportunidades para aprobar la evaluación."
+  },
+  {
+    "title": "¿Cuándo me queda un 2 al analítico? ¿Cuándo no?",
+    "value": "Si no aprobás la cursada de una materia, la recursás y no se te registra ningún aplazo.<br/>Si aprobás la cursada de una materia, pero no rendís nunca el final y la cursada se te vence, la recursás y no se te registra un aplazo.<br/>Si diste una o dos veces mal el final, y todavía no pasaron todas tus oportunidades para rendir, todavía no se asienta el aplazo.<br/>Si rendís tres veces mal el final, o lo das mal una vez o dos veces y la cursada se te vence, recursás la materia y te va un 2 al analítico. "
+  },
+  {
+    "title": "¿En qué plazo deben entregarme la nota de un final?",
+    "value": "Los resultados del examen final deberán ser comunicados a los alumnos en un plazo máximo de 72 horas antes de la próxima oportunidad de evaluación, o de una semana en el caso de que la próxima oportunidad esté establecida pasados más de 10 días de la anterior."
+  },
+  {
+    "title": "¿Qué pasa si me anoto al final y no voy?",
+    "value": "Para el final tenés quince fechas en las cuales elegir anotarte, podés presentarte a rendir hasta tres veces. En este caso si te anotas y no te presentas, no perdés la fecha. Tenés tiempo de inscribirte hasta 48 horas antes del examen, ¡No cuelgues!"
+  },
+  {
+    "title": "Aprobé una materia y no me figura en el SIU, ¿Qué hago?",
+    "value": "El trámite que debe hacerse para que estas materias se asienten es el de carta al Decano, con el cual se deben presentar: listado de asignaturas aprobadas con la aclaración de código, nombre, libro, folio, fecha y calificación del examen; lista de las asignaturas que falta rendir evaluación integradora, indicando el cuatrimestre en que lo habilitaron; lista de asignaturas que cursa en el cuatrimestre en curso; y nota ampliando los motivos de la solicitud."
+  },
+  {
+    "title": "¿Dónde obtengo o renuevo la credencial de la biblioteca?",
+    "value": "La credencial te va a permitir, entre otras cosas, llevarte libros a tu casa. Para obtenerla, tenés que acercarte al sector de credenciales de la biblioteca, con:<br/>- Foto color 4x4 (no fotocopia)<br/>- DNI<br/>- Libreta universitaria definitiva o provisoria. Si sos ingresante y ya tenés padrón no hace falta.<br/>El horario es de lunes a viernes de 9 a 13 y de 18 a 20 hs."
+  }
+]

@@ -1,0 +1,71 @@
+﻿{
+  "comoLlego": [
+    {
+      "title": "... de Paseo Colón a Las Heras?",
+      "value": "El 62 y el 93 se toman en la puerta de PC y te dejan en la esquina de LH.<br/>El 130 se toma en la puerta de PC y te deja en Facultad de Derecho, luego hay que caminar cinco cuadras por Pueyrredón.<br/>La línea D se toma en la esquina de Catedral de Plaza de Mayo (a unas diez cuadras de PC, podés acercarte con varios colectivos) y te deja en Pueyrredón y Santa Fe (a ocho cuadras de LH). ",
+      "coords": "Las Heras"
+    },
+    {
+      "title": "... de Las Heras a Paseo Colón?",
+      "value": "El 61 y el 93 se toman sobre Av. Pueyrredón (a una cuadra de LH) y te deja en PC.<br/>El 130 se toma sobre Plaza Francia (hay que caminar cinco cuadras por Pueyrredón) y te deja en PC.<br/>La línea D se toma en Pueyrredón y Santa Fe (a ocho cuadras de LH) y te deja en la esquina de Catedral de Plaza de Mayo (a unas diez cuadras de PC, podés acercarte con varios colectivos).",
+      "coords": "Paseo Colon"
+    },
+    {
+      "title": "... de Paseo Colón a Ciudad Universitaria?",
+      "value": "El 33 ramal 'a Ciudad Universitaria' se toma en la puerta de PC y te deja en Ciudad Universitaria.<br/>Se puede combinar un colectivo que vaya hasta Retiro (el 33, 62, 93, 130 o 152) y tomar el tren de la línea Belgrano Norte hasta la estación Scalabrini Ortiz.",
+      "coords": "Ciudad Universitaria"
+    },
+    {
+      "title": "... de Ciudad Universitaria a Paseo Colón?",
+      "value": "El 33 ramal 'a Ciudad Universitaria' se toma en Ciudad Universitaria y te deja en PC. La estación de tren Scalabrini Ortiz de la línea Belgrano Norte te deja en Retiro. Luego se puede tomar un colectivo que vaya hasta PC (el 33, 62, 93, 130 o 152).<br/>",
+      "coords": "Paseo Colon"
+    },
+    {
+      "title": "... de Las Heras a Ciudad Universitaria y viceversa?",
+      "value": "El 37 hace el recorrido Ciudad Universitaria - Las Heras.",
+      "coords": "Ciudad Universitaria"
+    }
+  ],
+  "dondeQueda": [
+    {
+      "title": "... el Departamento de Matemática?",
+      "value": "Primer piso, ala Avenida Independencia."
+    },
+    {
+      "title": "... el Departamento de Física?",
+      "value": "Segundo piso, ala Estados Unidos."
+    },
+    {
+      "title": "... el Departamento de Química?",
+      "value": "Quinto piso, ala Estados Unidos."
+    },
+    {
+      "title": "... el Departamento de Computación?",
+      "value": "Cuarto piso, ala Estados Unidos."
+    },
+    {
+      "title": "... el Departamento de Alumnos?",
+      "value": "Planta baja, ala Estados Unidos."
+    },
+    {
+      "title": "... los espacios del CEI?",
+      "value": "El SUM del CEI: pasando el gimnasio, vas a encontrar la máquina de cargar SUBE, un espacio para estudiar, computadoras con internet e impresora A4, un dispenser con agua fría y caliente, un metegol y una mesa de ping pong.<br/>El CeComCEI de PC (donde se hace Remando en el CBC): en el 5to piso, al lado de los ascensores.<br/>El CeComCEI de LH: hall de planta baja a la izquierda de la escalera principal, detrás del péndulo. Vas a encontrar la máquina de cargar SUBE, un espacio para estudiar, computadoras con internet e impresora A4 y A3, y un dispenser con agua fría y caliente."
+    },
+    {
+      "title": "... la Biblioteca?",
+      "value": "Tercer piso, sobre el Hall."
+    },
+    {
+      "title": "... el Comedor?",
+      "value": "Por el mismo pasillo que conduce hacia alumnos, hay que girar hacia la izquierda y seguir caminando. Luego, te encontraras con una escalera por la cual tenes que bajar."
+    },
+    {
+      "title": "... la Fotocopiadora?",
+      "value": "Pasás por la puerta de atrás de la 403 y bajás un piso por las escaleras. También podés pasar por la puerta de atrás de la 201 y subir un piso."
+    },
+    {
+      "title": "... esta aula, en base al código del SIU?",
+      "value": "El primer número te indica el piso. Si es par, se encuentra del lado de la calle Estados Unidos; si es impar, se encuentra del lado de Av. Independencia. Por ejemplo, la 202, está en el segundo piso, ala Estados Unidos. La 313, está en el tercer piso, ala Av. Independencia.<br/>Las indicadas con L más un número son laboratorios del departamento de electrónica, se encuentran en el primer piso.<br/>Los laboratorios A, B, C, ... , H son laboratorios del departamento de computación, se encuentran en el cuarto piso, ala Estados Unidos.<br/>Las indicadas con S más un número, son del subsuelo.<br/>Las indicadas con E más un número, son del entrepiso. Para llegar, hay que bajar al subsuelo y subir alguna otra escalera luego. Respetan la misma ubicación de par - impar."
+    }
+  ]
+}

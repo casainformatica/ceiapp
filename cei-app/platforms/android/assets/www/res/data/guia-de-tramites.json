@@ -1,0 +1,34 @@
+﻿[
+  {
+    "title": "Examen de salud",
+    "value": "El examen de salud es obligatorio para retirar la libreta definitiva. Se realiza en Hidalgo 1067, y una vez que ingresás, tenés hasta dos años para hacerlo. Podés pedir turno al 4958-6642. Presentate con DNI o libreta universitaria, y libreta sanitaria. ¡Tratá de no patearlo demasiado!"
+  },
+  {
+    "title": "Libreta definitiva",
+    "value": "En el mismo lugar donde te inscribiste (el departamento de admisión) te van a entregar una libreta provisoria (de tapa de cartulina celeste) en la cuarta o quinta semana de tu primer cuatrimestre. Te durará un año, hasta que puedas retirar la definitiva, siempre y cuando hayas hecho el examen de salud obligatorio de la UBA."
+  },
+  {
+    "title": "Pedido de prórroga de un final",
+    "value": "Pedir prórroga se dice a posponer el vencimiento de las oportunidades de rendir final, es decir, pedir más llamados una vez que se te pasaron los 15 corrientes.<br/>Para que se te otorgue el beneficio, tenés que presentar un formulario en del Departamento de alumnos, que tiene que estar firmado por el docente a cargo de la materia, y una vez validado se te extiende durante cinco llamados más.<br/>Recomendamos preguntarle al docente encargado de la asignatura si otorga la prórroga antes de iniciar el trámite."
+  },
+  {
+    "title": "Cursar una materia de otra carrera",
+    "value": "La resolución de Consejo Directivo 168 es la que permite cursar materias de otra carrera. Para hacerlo, tenés que presentar el formulario modelo adjuntando también: listado de asignaturas aprobadas con la aclaración de código, nombre, libro, folio, fecha y calificación del examen; lista de las asignaturas que falta rendir evaluación integradora, indicando el cuatrimestre en que lo habilitaron; lista de asignaturas que cursa en el cuatrimestre en curso; y nota ampliando los motivos de la solicitud."
+  },
+  {
+    "title": "Certificado de alumno regular",
+    "value": "Para ser alumno regular tenés que: aprobar por lo menos dos materias en el transcurso de dos años, no superar en aplazos el 33% de los créditos de la carrera (incluyendo el CBC), y no demorarse más del doble de la duración estimada para aprobar todas las obligaciones correspondientes al plan de estudios. El certificado se tramita de manera gratuita en el Departamento de Alumnos presentando libreta y el comprobante de la última rematriculación anual de la UBA (que se puede imprimir en <a href='#' onclick=\" window.open('http://sip.rec.uba.ar','_blank', 'location=yes'); \">http://sip.rec.uba.ar</a>)."
+  },
+  {
+    "title": "Certificado analítico",
+    "value": "El certificado analítico es una constancia oficial de la Facultad que refleja qué asignaturas aprobaste, cuándo y con qué calificación.<br/>Para pedirlo, tenés que pasar por Tesorería (está en el pasillo cercano al local de Eudeba), abonar $6, y presentarte con el comprobante de pago y tu libreta. El trámite dura unos diez días hábiles en los cuales te retienen tu libreta."
+  },
+  {
+    "title": "Pase o simultaneidad con otra carrera",
+    "value": "Para tramitar el pase o la simultaneidad con otra carrera, tenés que acercarte al departamento de alumnos con el formulario correspondiente más  documentación como el plan de estudios de tu carrera y los programas de las materias aprobadas, que podés obtenerlos en biblioteca.<br/>Si querés tramitar la simultaneidad o pase a una carrera de otra Facultad, el trámite finalizará en la otra unidad académica."
+  },
+  {
+    "title": "Solicitud de readmisión",
+    "value":  "En caso de perder la regularidad, podés solicitar la readmisión presentando el formulario en el departamento de alumnos."
+  }
+]

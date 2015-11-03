@@ -1,0 +1,30 @@
+<ion-view class="como-llego list-page" title="Como llego? Donde queda?" ng-controller="ComoLlegoCtrl">
+    <ion-content>
+        <div class="item item-divider">Como llego...</div>
+        <div id="map" class="section-logo map"></div>
+        <ion-list>
+            <div ng-repeat="item in comoLlego">
+                <ion-item class="item-stable" ng-class="{active: isItemShown(item)}" ng-click="toggleComoLlegoItem(item)">
+                    <i class="icon" ng-class="isItemShown(item) ? 'ion-minus' : 'ion-plus'"></i>
+                    <span class="title">{{item.title}}</span>
+                </ion-item>
+                <ion-item class="item-accordion" ng-show="isItemShown(item)">
+                    <div class="value" ng-bind-html="item.value"></div>
+                </ion-item>
+            </div>
+        </ion-list>
+        <div class="item item-divider">Donde queda...</div>
+        <div class="section-logo donde-queda"></div>
+        <ion-list>
+            <div ng-repeat="item in dondeQueda">
+                <ion-item class="item-stable" ng-class="{active: isItemShown(item)}" ng-click="toggleItem(item)">
+                    <i class="icon" ng-class="isItemShown(item) ? 'ion-minus' : 'ion-plus'"></i>
+                    <span class="title">{{item.title}}</span>
+                </ion-item>
+                <ion-item class="item-accordion" ng-show="isItemShown(item)">
+                    <div class="value" ng-bind-html="item.value"></div>
+                </ion-item>
+            </div>
+        </ion-list>
+    </ion-content>
+</ion-view>
